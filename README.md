@@ -4,4 +4,6 @@ An application to download free ringtones. In his work uses an online collection
 
 Ringtones are available in mp3 in m4r formats. Added preview function.
 
+The script is under development. Added Oauth authentication.
+
 Current Version: 0.5 Beta.

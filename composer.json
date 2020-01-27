@@ -1,6 +1,6 @@
 {
-    "name": "j4k/oauth2-vkontakte",
-    "description": "Vkontakte provider for league/oauth2-client",
+    "name": "toolster/free-ringtones",
+    "description": "free-ringtones-application",
     "keywords": [
         "league",
         "package"
@@ -8,8 +8,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jack Wall",
-            "email": "jw@jack.gd"
+            "name": "Toolster",
         }
     ],
     "require": {
